@@ -1,0 +1,44 @@
+.consolas{
+    border-bottom: 1px solid #000;
+}
+
+p{
+    font-family: sans-serif;
+    word-spacing: 25%;
+}
+
+header{
+    width: 82%;
+    margin: 0 auto;
+    background-color: #F8F9FA;
+}
+
+footer{
+    text-align: center;
+    margin: 0 auto;
+    background-color: #F8F9FA;
+}
+main{
+    width: 82%;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+img{
+    border: 5px solid #F8F9FA;
+}
+
+h1{
+    border-bottom: 1px solid #000;
+}
+
+body {
+    background-color: #F8F9FA;
+    margin: 0;
+}
+
+.header-links {
+    text-align: right;
+    margin-top: 10px;
+}
