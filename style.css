@@ -19,7 +19,7 @@ footer{
     background-color: #F8F9FA;
 }
 main{
-    width: 82%;
+    width: 50%;
     margin: 0 auto;
     background-color: #ffffff;
     padding: 20px;
@@ -41,4 +41,5 @@ body {
 .header-links {
     text-align: right;
     margin-top: 10px;
+    margin-right: auto;
 }
